@@ -3,7 +3,7 @@
 This is a clean, responsive landing page for **Moonbot**, a fictional high-performance Twitch chatbot.  
 It was built as a **personal project to practice HTML and CSS concepts** learned in college and showcase front-end development skills.
 
-The Moonbot brand identity, including the **logo** and **robot icon** were designed by me using [Canva](https://www.canva.com/)
+The Moonbot brand identity, including the **logo** and **robot icon** were designed by me using **Canva**.
 
 ---
 
